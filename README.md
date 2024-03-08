@@ -1,5 +1,5 @@
 # Queqz Spoofer folder
-Here's my whole folder of spoofers that I use.
+Here's my whole folder of spoofers that I use for unbanning for ANY game that I know.
 ## Usage
 Open CDCleaner.exe and go through the process. Then open AppleCleaner.exe and do the same for it.
 ## Extra
